@@ -2,6 +2,11 @@
 
 mini power manager for PC
 
+![pcb](./images/pcb.jpg)
+![mini-power](./images/mini-power.jpg)
+![mini-power-in-PC](./images/mini-power-in-PC.jpg)
+![screenshot](./images/screenshot.png)
+
 ## PCB
 
 ### KiCad dependencies
