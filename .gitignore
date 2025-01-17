@@ -1,0 +1,6 @@
+gerber/
+fp-info-cache
+fp-lib-cache
+mini-power-backups/
+fp-lib-table
+sym-lib-table
