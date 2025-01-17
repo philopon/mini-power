@@ -2,10 +2,14 @@
 
 mini power manager for PC
 
-![pcb](./images/pcb.jpg)
-![mini-power](./images/mini-power.jpg)
-![mini-power-in-PC](./images/mini-power-in-PC.jpg)
-![screenshot](./images/screenshot.png)
+<p>
+  <img src="./images/pcb.jpg" height="250"/>
+  <img src="./images/mini-power.jpg" height="250"/>
+</p>
+<p>
+  <img src="./images/mini-power-in-PC.jpg" height="250"/>
+  <img src="./images/screenshot.png" height="250"/>
+</p>
 
 ## PCB
 
