@@ -24,7 +24,7 @@ mini power manager for PC
 - U1: [Seeed Studio XIAO ESP32C6](https://akizukidenshi.com/catalog/g/g129481/) x 1
 - U2-U4: [TLP172AM](https://akizukidenshi.com/catalog/g/g116065/) x 3
 - J1: [1x5 pin socket](https://akizukidenshi.com/catalog/g/g110397/) x 2
-- [1206 SMD resistor]
+- 1206 SMD resistor
   - R1,R3: 200R x 2
   - R2: 330R x 1
-- [PCB](gerber.zip)
+- [PCB](gerber.zip) x 1
