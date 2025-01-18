@@ -28,3 +28,17 @@ mini power manager for PC
   - R1,R3: 200R x 2
   - R2: 330R x 1
 - [PCB](gerber.zip) x 1
+
+## write firmware
+
+```
+$ cp src/config.cpp.template src/config.cpp
+# Edit src/config.cpp
+
+# install npm packages
+$ cd frontend
+$ npm install
+
+# build and send firmware using platformio
+
+```
