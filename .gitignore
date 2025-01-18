@@ -6,3 +6,4 @@ fp-lib-table
 sym-lib-table
 config.cpp
 svelteesp32.h
+/.vscode/c_cpp_properties.json
