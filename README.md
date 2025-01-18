@@ -37,7 +37,7 @@ $ cp src/config.cpp.template src/config.cpp
 
 # install npm packages
 $ cd frontend
-$ npm install
+$ pnpm install
 
 # build and send firmware using platformio
 
