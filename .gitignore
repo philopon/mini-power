@@ -5,3 +5,4 @@ mini-power-backups/
 fp-lib-table
 sym-lib-table
 config.cpp
+svelteesp32.h
